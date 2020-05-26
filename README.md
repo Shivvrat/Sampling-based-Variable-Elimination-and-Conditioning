@@ -79,12 +79,16 @@ Please enter the following command line argument to run the third part :-
 python part_3.py <uai_file_directory_and_name > <evidence_file_directory_and_name > < pr_file_directory_and_name > <type_of_algorithm > <w_cutset_size > <number_of_samples >
 ```
 Please use the following command line parameters for the main.py file :-
+
 • ```<uai_file_directory_and_name>```
 Please provide the file that will be used as the .uai file
+
 • ```<evidence_file_directory_and_name>```
 Please provide the file that will be used as the uai.evid file
+
 • ```<pr_file_directory_and_name>```
 Please provide the file that will be used as the uai.PR file
+
 • ```type_of_algorithm``` 
 Please provide the algorithm you want to use :
 1. ***-vec*** Sampling-based Variable Elimination and Conditioning
@@ -92,6 +96,7 @@ Please provide the algorithm you want to use :
 
 • ```w-cutset-size```
 Please provide the w-cutset allowed size
+
 • ```number-of-samples```
 Please provide the number of samples to be used to find the estimate
 
